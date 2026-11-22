@@ -9,6 +9,8 @@ category: it-ops-security
 subCategories: [itops-troubleshooting]
 visibility: public
 license: MIT
+homepage: https://github.com/oracis/360-residue-cleanup
+repository: https://github.com/oracis/360-residue-cleanup
 ---
 
 # 360 全家桶残留安全清理
