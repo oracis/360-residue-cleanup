@@ -4,7 +4,7 @@ description: 安全清理 Windows 上 360 全家桶（安全卫士、杀毒、�
 agent_created: true
 slug: 360-residue-cleanup
 displayName: 360 全家桶残留安全清理
-version: 1.0.0
+version: 1.0.1
 category: it-ops-security
 subCategories: [itops-troubleshooting]
 visibility: public
